@@ -1,2 +1,6 @@
-# Repo
-this repo contain githup demo details
+# project name
+GitHup
+
+# Tec used
+GitHup,Vs code
+
